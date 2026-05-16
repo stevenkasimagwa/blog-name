@@ -59,7 +59,7 @@ b {
 /* Tablet screen */
 @media (min-width: 768px) {
     body {
-        background: rgb(245, 242, 242); /*green*/
+        background: rgb(245, 242, 242); /*green color*/
     }
     
     .content {
