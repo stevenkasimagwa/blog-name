@@ -5,7 +5,7 @@
 }
 
 body {
-    background: rgba(168, 119, 119, 0.342); /*pink - mobile first*/
+    background: rgba(255, 255, 255, 0); /*pink - mobile first*/
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     font-size: clamp(16px, 4vw, 18px);
     line-height: 1.6;
@@ -59,7 +59,7 @@ b {
 /* Tablet screen */
 @media (min-width: 768px) {
     body {
-        background: rgba(165, 150, 150, 0.445); /*green*/
+        background: rgb(245, 242, 242); /*green*/
     }
     
     .content {
@@ -75,7 +75,7 @@ b {
 /* Large screen */
 @media (min-width: 1300px) {
     body {
-        background: rgba(163, 128, 134, 0.126); /*light pink*/
+        background: rgba(255, 255, 255, 0.888); /*light pink*/
     }
     
     .content {
